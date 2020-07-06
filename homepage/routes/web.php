@@ -20,6 +20,7 @@ Route::get('index', function () {
 
 Route::view('history', 'about/history');
 Route::view('philosophy', 'about/philosophy');
+Route::view('vision', 'about/vision');
 
 
 //Route::view('parents', 'admissions/parents');
