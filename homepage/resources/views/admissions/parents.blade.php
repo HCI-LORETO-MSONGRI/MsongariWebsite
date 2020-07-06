@@ -4,6 +4,8 @@
 
 @section('content')
 
+
+
 <div class="container" id="container" >
   <div class ="form-wrapper">
      <form action="parents" method="POST" class="pb-5" id="form1">
@@ -468,6 +470,8 @@
   }
 </script>
 
+
+
 <script type="text/javascript">
     jQuery(document).ready(function ()
     {
@@ -487,15 +491,16 @@
                            $('select[name="class"]').append('<option value="'+ key +'">'+ value +'</option>');
                         });
                      }
-                  });
-               }
-               else
+
+                      else
                {
                   $('select[name="class"]').empty();
                }
             });
     });
+
     </script>
+ 
 
 
 @endsection
