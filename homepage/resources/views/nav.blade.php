@@ -25,10 +25,10 @@
           <a class="dropdown-item" href="history">Our History</a>
           <a class="dropdown-item" href="philosophy">Our Philosophy</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Vision</a>
-           <a class="dropdown-item" href="#">Mission</a>
-            <a class="dropdown-item" href="#">Motto</a>
-             <a class="dropdown-item" href="#">School Anthem</a></li>
+          <a class="dropdown-item" href="vision">Vision</a>
+           <a class="dropdown-item" href="vision">Mission</a>
+            <a class="dropdown-item" href="vision">Motto</a>
+             <a class="dropdown-item" href="vision">School Anthem</a></li>
                         <li><a class="nav-link " href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           School Levels
         </a>
