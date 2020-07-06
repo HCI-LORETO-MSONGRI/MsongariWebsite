@@ -4,7 +4,6 @@
 
 @section('content')
 
-
 <i class="fa fa-thumb-tack"><hr></i>
 <div id="margin1">
 <section id="philosophy" class="cd-hero js-cd-hero">
