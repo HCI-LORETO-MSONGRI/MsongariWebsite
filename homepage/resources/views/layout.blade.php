@@ -19,7 +19,7 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" >
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
+     
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -55,12 +55,18 @@
 </div>
 
 
-<!-- ALL JS FILES -->
+<!-- ALL JS FILES --> 
     <script src="js/all.js"></script>
+
+
     <!-- ALL PLUGINS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script> 
     <script src="js/main.js"></script>
+
     <script src="js/custom.js"></script>
+
     <script src="js/swiper.min.js"></script>
+
     <script>
         var swiper = new Swiper('.swiper-container', {
             loop: true,
@@ -102,6 +108,7 @@
       </script>
     
     
+
 
 
 </body>
